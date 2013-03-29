@@ -64,11 +64,6 @@
       <groupId>com.google.android</groupId>
       <scope>provided</scope>
     </dependency>
-    <dependency>
-      <groupId>com.google.android</groupId>
-      <artifactId>support-v4</artifactId>
-      <version>r11</version>
-    </dependency>
   </dependencies>
 
   <build>
